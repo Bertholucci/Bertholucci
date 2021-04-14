@@ -3,7 +3,7 @@
 #### :zap: BackEnd Languages
 
 <p>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-5D78BD?logo=php&logoColor=white&style=for-the-badge" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-5D78BD?logo=php&logoColor=white&style=for-the-badge" /> <br/>
   :construction_worker: In progress <img alt="Elixir" src="https://img.shields.io/badge/elixir-4B275F?logo=elixir&logoColor=white&style=for-the-badge" />
 </p>
 
