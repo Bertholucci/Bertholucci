@@ -1,13 +1,14 @@
-## Hi, I am Matheus <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji.
+## Hi, I am Matheus 👋
 
-#### BackEnd Languages
+#### :zap: BackEnd Languages
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-5D78BD?logo=php&logoColor=white&style=for-the-badge" />
+  :construction_worker: In progress <img alt="Elixir" src="https://img.shields.io/badge/elixir-4B275F?logo=elixir&logoColor=white&style=for-the-badge" />
 </p>
 
 
-#### FrontEnd
+#### :art: FrontEnd
 
 
 <p>
@@ -19,21 +20,15 @@
   :construction_worker: In progress <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 </p>
 
-#### Backend
 
-
-<p>
-  :construction_worker: In progress <img alt="Elixir" src="https://img.shields.io/badge/elixir-4B275F?logo=elixir&logoColor=white&style=for-the-badge" />
-</p>
-
-#### Mobile
+#### :iphone: Mobile
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-5EC7F5?logo=java&logoColor=white&style=for-the-badge" />
 </p>
 
 
-#### Numbers
+#### :chart_with_upwards_trend: Numbers
 
 <center>
     <table>
